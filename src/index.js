@@ -1,10 +1,8 @@
-function component() {
-    const element = document.createElement('div');
-  
-    // Lodash, now imported by this script
-    element.innerHTML = _.join(['Hello', 'webpack'], ' ');
-  
-    return element;
-  }
-  
-  document.body.appendChild(component());
+import './style.css';
+import Todo from './modules/Apps.js';
+
+window.addEventListener('load', () => {
+  const todo = new Todo();
+  todo.show();
+  todo.events();
+});
