@@ -35,7 +35,7 @@
 
 # 📖 [toDo-list] <a name="about-project"></a> 
 
-**[toDo-list]** is a to-do app.
+**[toDo-list]** is a to-do app to add an to do item to a list, remove an item when it's done or complete, saves you to do items until you delete or complete them.
 
 ## 🛠 Built With <a name="built-with"></a>
 
