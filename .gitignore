@@ -1,1 +1,13 @@
+# Dependency directories
 node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Serverless directories
+.serverless/
+
+# IDE file
+.idea/
+.vscode/
