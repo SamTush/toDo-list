@@ -55,6 +55,7 @@
 - **[Add list structure]**
 - **[Add item to list]**
 - **[Remove item from item]**
+- **[Make it an interactive list]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
