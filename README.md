@@ -52,6 +52,7 @@
 
 ### Key Features <a name="key-features"></a>
 
+- **[Add list structure]**
 - **[Add item to list]**
 - **[Remove item from item]**
 
