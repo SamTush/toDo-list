@@ -111,7 +111,8 @@ Install this project with:
 To run the project, use the following :
 
 ```
-  npm run dev
+  npm run build
+  npm start
 ```
 
 
