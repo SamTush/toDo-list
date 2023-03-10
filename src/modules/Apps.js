@@ -158,6 +158,7 @@ export default class Apps {
     this.changeEvent();
     this.changeStatus();
     this.deleteEvent();
+    console.log($id);
   };
 
   saveStorage = ($items) => {
